@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kaveh.bluetoothchating.MainActivity">
+    <item
+        android:id="@+id/action_turnob_bluetooth"
+        android:orderInCategory="100"
+        android:title="Turn on Bluetooth"
+        app:showAsAction="never" />
+</menu>
